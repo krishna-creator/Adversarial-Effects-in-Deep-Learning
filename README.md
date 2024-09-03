@@ -36,9 +36,9 @@ In the second part, the focus shifts to generating adversarial examples using tw
 - **Attention Maps:** Visualizations generated from the attention maps reveal which regions of the image are most influential in the model's decision-making process.
 - **Adversarial Examples:** The generated adversarial examples demonstrate how small perturbations can significantly alter the model's output, particularly as the epsilon value increases.
 
-![Attention Map Example](images/output1.png)
-
 ### Probability of correct class hay after: 0.0000
+
+![Attention Map Example](images/output1.png)
 
 ## Requirements
 
