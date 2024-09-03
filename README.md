@@ -36,6 +36,8 @@ In the second part, the focus shifts to generating adversarial examples using tw
 - **Attention Maps:** Visualizations generated from the attention maps reveal which regions of the image are most influential in the model's decision-making process.
 - **Adversarial Examples:** The generated adversarial examples demonstrate how small perturbations can significantly alter the model's output, particularly as the epsilon value increases.
 
+![Attention Map Example](images/output1.png)
+
 ## Requirements
 
 - Python 3.x
@@ -43,9 +45,11 @@ In the second part, the focus shifts to generating adversarial examples using tw
 - NumPy
 - Matplotlib (for visualization)
 
-## Usage
+## References
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/adversarial-effect-poc.git
-   cd adversarial-effect-poc
+- Goodfellow, Ian J., Jonathon Shlens, and Christian Szegedy. Explaining and Harnessing Adversarial Examples.
+- Kurakin, Alexey, Ian J. Goodfellow, and Samy Bengio. Adversarial Examples in the Physical World.
+
+## Acknowledgments
+
+Special thanks to the researchers and authors of the papers referenced for their foundational work in adversarial machine learniing.
