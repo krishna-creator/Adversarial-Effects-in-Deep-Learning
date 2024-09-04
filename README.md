@@ -45,7 +45,7 @@ In the second part, the focus shifts to generating adversarial examples using tw
 - Python 3.x
 - PyTorch
 - NumPy
-- Matplotlib (for visualization)
+- Matplotlib
 
 ## References
 
