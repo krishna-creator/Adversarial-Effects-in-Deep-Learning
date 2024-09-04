@@ -46,6 +46,9 @@ In the second part, the focus shifts to generating adversarial examples using tw
 - PyTorch
 - NumPy
 - Matplotlib
+- torch
+- torchvision
+- scipy.ndimage.filters
 
 ## References
 
